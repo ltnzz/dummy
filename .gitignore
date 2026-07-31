@@ -1,0 +1,14 @@
+# OS
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Node (kalau nanti pake npm)
+node_modules/
+npm-debug.log*
+
+# Cache
+*.log
